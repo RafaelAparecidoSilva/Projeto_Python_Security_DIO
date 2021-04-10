@@ -1,0 +1,4 @@
+www.google.com.br
+8.8.8.8
+www.g1.com.br
+www.youtube.com.br
